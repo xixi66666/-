@@ -1,4 +1,4 @@
-package 设计模式.工厂模式.简单工厂;
+package 设计模式.工厂模式.工厂方法;
 
 public class Dog implements yellable{
     private String name;
